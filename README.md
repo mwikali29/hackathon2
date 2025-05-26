@@ -21,11 +21,11 @@ AI-Powered Insights & Delight (Core Hackathon Innovation): Leveraging AI to enha
 🛠️ Technologies Used
 These "Vibe Coding Tools" allowed for lightning-fast development, ensuring a robust yet agile solution:
 
-Supabase: Our powerful backend, providing a scalable PostgreSQL database, instant APIs (RESTful), and authentication. It handles all our customer, visit, and reward data securely and efficiently.
-Bolt.new / Lovable.dev (Frontend Framework): Utilized for rapid mobile/web app prototyping and connecting seamlessly to our Supabase backend, enabling quick UI generation and business logic implementation.
+Supabase: Our powerful backend, providing a scalable PostgreSQL database, instant APIs (RESTful), and authentication. It handles all the customer, visit, and reward data securely and efficiently.
+Bolt.new / Lovable.dev (Frontend Framework): Utilized for rapid mobile/web app prototyping and connecting seamlessly to my Supabase backend, enabling quick UI generation and business logic implementation.
 MGX (UI/UX Design): Employed for lightning-fast UI design iterations, ensuring a clean, intuitive, and aesthetically pleasing user experience for both business owners and customers.
 Claude.ai (AI Integration & Prompt Engineering): Used extensively for generating creative ideas, personalized messages, and refining logical flows.
-Cursor AI (AI-Assisted IDE): Accelerated our coding process, assisting with code generation, debugging, and review, ensuring clean and efficient code.
+Cursor AI (AI-Assisted IDE): Accelerated my coding process, assisting with code generation, debugging, and review, ensuring clean and efficient code.
 🧠 AI Integration & Prompt Engineering
 My project deeply integrates AI to deliver "joy-driven" solutions and enhance development efficiency:
 
@@ -35,17 +35,17 @@ Prompt Example: "Draft a short, joyful SMS message for a customer named 'Maria' 
 Impact: This allows businesses to easily offer unique rewards and engage customers with highly personalized communication, reducing churn and increasing delight.
 Rapid Code Generation & Debugging (Cursor AI):
 Prompt Example (Cursor AI): "Generate SQL CREATE TABLE statements for a Supabase database to store businesses, customers, visits, and reward_tiers, ensuring proper primary/foreign key relationships and data types for a loyalty app."
-Impact: Dramatically accelerated our development cycle, allowing us to focus on core functionality and UI/UX rather than boilerplate code, directly addressing the "Rapid Prototyping & Execution" criterion.
+Impact: Dramatically accelerated my development cycle, allowing me to focus on core functionality and UI/UX rather than boilerplate code, directly addressing the "Rapid Prototyping & Execution" criterion.
 RLS Policy Guidance (Claude.ai):
 Prompt Example: "Explain the difference between RLS 'PERMISSIVE' and 'RESTRICTIVE' policies in Supabase, and which one is best for a hackathon MVP allowing an authenticated user to manage their own business's customers."
-Impact: Helped us navigate Supabase's security features efficiently, ensuring our data access was appropriately controlled while maintaining rapid development pace.
+Impact: Helped me navigate Supabase's security features efficiently, ensuring my data access was appropriately controlled while maintaining rapid development pace.
 🚀 How to Run the Project
 To get LoyaltyConnect up and running for testing or review:
 
 Clone the Repository:
 Bash
 
-git clone [Your GitHub Repo URL Here]
+git clone  https://github.com/mwikali29/hackathon2.git
 cd loyalty-connect-app
 Set up Supabase Backend:
 Sign up/Log in to Supabase.
